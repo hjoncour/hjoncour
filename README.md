@@ -1,12 +1,15 @@
 ```text
-                    __      _
-                   / /_    (_)___  ____  _________  __  _______
-                  / __ \  / / __ \/ __ \/ ___/ __ \/ / / / ___/
-                 / / / / / / /_/ / / / / /__/ /_/ / /_/ / /
-                /_/ /_/_/ /\____/_/ /_/\___/\____/\__,_/_/
+            __      _
+           / /_    (_)___  ____  _________  __  _______
+          / __ \  / / __ \/ __ \/ ___/ __ \/ / / / ___/
+         / / / / / / /_/ / / / / /__/ /_/ / /_/ / /
+        /_/ /_/_/ /\____/_/ /_/\___/\____/\__,_/_/
 ```
 
-Welcome to my corner of GitHub, you can find more about me **[here](https://hjoncour.com)**.
+Welcome to my corner of GitHub,
+I'm a software engineer at Expedia, I work with Java/Kotlin & JavaScript/TypeScript microservices deployed in AWS to build high availability GraphQL APIs for our lodging partners.
+I'm particularly interested in building highly resilient distributed systems with strong observability
+you can find more about me **[here](https://hjoncour.com)**.
 
 ---
 
@@ -37,7 +40,7 @@ Welcome to my corner of GitHub, you can find more about me **[here](https://hjon
 <details open>
 <summary><code>💡 Interests</code></summary>
 
-- Distributed systems · Cryptography · Peer-to-Peer tech  
+- Distributed systems · Peer-to-Peer tech  
 - Languages (🇺🇸🇫🇷, learning 🇨🇳)  
 - Triathlon 🏊 🚴 🏃  
 - Reading: [novels, essays & tech](https://app.thestorygraph.com/profile/santeau)
