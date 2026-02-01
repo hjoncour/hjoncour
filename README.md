@@ -28,11 +28,10 @@ you can find more about me **[here](https://hjoncour.com)**.
 <details open>
 <summary><code>🚀 Projects</code></summary>
 
-- **[GitCruise](https://gitcruise.com/)** → Mobile-first IDE & GitHub client (wip).  
+- **[cascii](https://github.com/cascii)** → [rust library](https://crates.io/crates/cascii), cli tool and video editor for ascii art
 - **[ClipScraper](https://github.com/ClipScraper)** → [App to download content from social media platforms](https://clipscraper.com)  
 - **[Snapshot](https://github.com/hjoncour/snapshot)** → Small bash cli tool to copy/paste backup and restore repos.  
-- **[cascii](https://github.com/cascii)** → [ascii animation generator](https://cascii.com/)
-
+- **[GitCruise](https://gitcruise.com/)** → Mobile-first IDE & GitHub client (wip).
 </details>
 
 ---
