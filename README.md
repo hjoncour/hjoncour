@@ -28,6 +28,7 @@ you can find more about me **[here](https://hjoncour.com)**.
 <details open>
 <summary><code>🚀 Projects</code></summary>
 
+- **[iTermPortal](https://itermportal.com/)** → macOS utility app to easily switch between the finder and the terminal
 - **[cascii](https://github.com/cascii)** → [rust library](https://crates.io/crates/cascii), cli tool and video editor for ascii art
 - **[ClipScraper](https://github.com/ClipScraper)** → [App to download content from social media platforms](https://clipscraper.com)  
 - **[Snapshot](https://github.com/hjoncour/snapshot)** → Small bash cli tool to copy/paste backup and restore repos.  
