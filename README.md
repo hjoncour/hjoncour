@@ -28,6 +28,7 @@ you can find more about me **[here](https://hjoncour.com)**.
 <details open>
 <summary><code>🚀 Projects</code></summary>
 
+- **[githubIcons](https://githubicons.com/)** → browser extension to use nice icons on github.com
 - **[iTermPortal](https://itermportal.com/)** → macOS utility app to easily switch between the finder and the terminal
 - **[cascii](https://github.com/cascii)** → [rust library](https://crates.io/crates/cascii), cli tool and video editor for ascii art
 - **[ClipScraper](https://github.com/ClipScraper)** → [App to download content from social media platforms](https://clipscraper.com)  
