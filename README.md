@@ -34,10 +34,10 @@ you can find more about me **[here](https://hjoncour.com)**.
 
 - **[githubIcons](https://githubicons.com/)** → browser extension to use nice icons on github.com
 - **[iTermPortal](https://itermportal.com/)** → macOS utility app to easily switch between the finder and the terminal
-- **[cascii](cascii.com)** → high performance rust libraries and tools to generate and display ascii art
+- **[cascii](https://cascii.com)** → high performance rust libraries and tools to generate and display ascii art
 - **[ClipScraper](https://github.com/ClipScraper)** → [App to download content from social media platforms](https://clipscraper.com)  
 - **[Snapshot](https://github.com/hjoncour/snapshot)** → Small bash cli tool to copy/paste backup and restore repos.  
-- **[GitCruise](https://gitcruise.com/)** → Mobile-first IDE & GitHub client (wip).
+<!-- - **[GitCruise](https://gitcruise.com/)** → Mobile-first IDE & GitHub client (wip). -->
 </details>
 
 ---
