@@ -1,11 +1,13 @@
 ```text
-██╗  ██╗     ██╗ ██████╗ ███╗   ██╗ ██████╗ ██████╗ ██╗   ██╗██████╗ 
-██║  ██║     ██║██╔═══██╗████╗  ██║██╔════╝██╔═══██╗██║   ██║██╔══██╗
-███████║     ██║██║   ██║██╔██╗ ██║██║     ██║   ██║██║   ██║██████╔╝
-██╔══██║██   ██║██║   ██║██║╚██╗██║██║     ██║   ██║██║   ██║██╔══██╗
-██║  ██║╚█████╔╝╚██████╔╝██║ ╚████║╚██████╗╚██████╔╝╚██████╔╝██║  ██║
-╚═╝  ╚═╝ ╚════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
+██╗  ██╗     ██╗ ██████╗ ███╗   ██╗ ██████╗ ██████╗ ██╗   ██╗██████╗     ██████╗ ██████╗ ███╗   ███╗
+██║  ██║     ██║██╔═══██╗████╗  ██║██╔════╝██╔═══██╗██║   ██║██╔══██╗   ██╔════╝██╔═══██╗████╗ ████║
+███████║     ██║██║   ██║██╔██╗ ██║██║     ██║   ██║██║   ██║██████╔╝   ██║     ██║   ██║██╔████╔██║
+██╔══██║██   ██║██║   ██║██║╚██╗██║██║     ██║   ██║██║   ██║██╔══██╗   ██║     ██║   ██║██║╚██╔╝██║
+██║  ██║╚█████╔╝╚██████╔╝██║ ╚████║╚██████╗╚██████╔╝╚██████╔╝██║  ██║██╗╚██████╗╚██████╔╝██║ ╚═╝ ██║
+╚═╝  ╚═╝ ╚════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝
 ```
+
+Welcome to my corner of GitHub,
 
 Welcome to my corner of GitHub,
 
@@ -20,10 +22,47 @@ you can find more about me **[here](https://hjoncour.com)**.
 <details open>
 <summary><code>🛠️ Tools & Technologies</code></summary>
 
-- **Languages:** Rust · JS/TS · Swift · Python · Java/Kotlin
-- **Frameworks:** Actix Web · Tauri · Yew · React 
-- **Infra & DevOps:** AWS · Cloudflare · GitHub Actions  
-- **Databases:** Postgres · SQLite · Realm
+**Languages & Markup**
+
+<!-- [![Languages and Markup](https://skillicons.dev/icons?i=rust,ts,js,swift,py,java,kotlin,html,css&perline=9)](https://skillicons.dev) -->
+
+- Python · Rust · TypeScript · JavaScript · Swift · Java · Kotlin · SQL · HTML · CSS
+
+**Operating Systems**
+
+<!-- [![Operating Systems](https://skillicons.dev/icons?i=apple,linux,windows&perline=7)](https://skillicons.dev) -->
+
+- macOS · Linux · Windows
+
+**Frameworks & Platforms**
+
+<!-- [![Frameworks and Platforms](https://skillicons.dev/icons?i=graphql,apollo,actix,spring,react,express,fastapi,tauri,yew,nodejs&perline=10)](https://skillicons.dev) -->
+
+- GraphQL · Apollo GraphQL · Actix Web · Spring Boot · React · ExpressJS · FastAPI · Tauri · Yew · Node.js
+
+**Cloud & DevOps**
+
+<!-- [![Cloud and DevOps](https://skillicons.dev/icons?i=aws,cloudflare,docker,gitlab,githubactions,jenkins&perline=8)](https://skillicons.dev) -->
+
+- AWS · Cloudflare · Docker · GitLab · GitHub Actions · Jenkins · Spinnaker
+
+**Databases, Messaging & Caching**
+
+<!-- [![Databases, Messaging and Caching](https://skillicons.dev/icons?i=postgres,sqlite,mongodb,mysql,redis,kafka&perline=8)](https://skillicons.dev) -->
+
+- PostgreSQL · SQLite · MongoDB · MySQL · Redis · Realm · Kafka
+
+**Observability**
+
+<!-- [![Observability](https://skillicons.dev/icons?i=grafana,elasticsearch&perline=8)](https://skillicons.dev) -->
+
+- Grafana · Elasticsearch · Datadog · Splunk
+
+**Dev Tools & Editors**
+
+<!-- [![Dev Tools and Editors](https://skillicons.dev/icons?i=git,npm,jest,idea,vscodium&perline=8)](https://skillicons.dev) -->
+
+- Git · npm · Jest · IntelliJ IDEA · VSCodium · FFmpeg
 
 </details>
 
@@ -32,6 +71,7 @@ you can find more about me **[here](https://hjoncour.com)**.
 <details open>
 <summary><code>🚀 Projects</code></summary>
 
+- **[chat.hjoncour](https://chat.hjoncour.com/)** → rag using elasticsearch & jinaAI to answer questions on my portfolio, work, and side projects
 - **[githubIcons](https://githubicons.com/)** → browser extension to use nice icons on github.com
 - **[iTermPortal](https://itermportal.com/)** → macOS utility app to easily switch between the finder and the terminal
 - **[cascii](https://cascii.com)** → high performance rust libraries and tools to generate and display ascii art
