@@ -32,60 +32,18 @@ you can find more about me **[here](https://hjoncour.com)**, or talk to my **[RA
 ---
 
 <details open>
-<summary><code>🛠️ Tools & Technologies</code></summary>
-
-**Languages & Markup**
-
-<!-- [![Languages and Markup](https://skillicons.dev/icons?i=rust,ts,js,swift,py,java,kotlin,html,css&perline=9)](https://skillicons.dev) -->
-
-- Python · Rust · TypeScript · JavaScript · Swift · Java · Kotlin · SQL · HTML · CSS
-
-**Operating Systems**
-
-<!-- [![Operating Systems](https://skillicons.dev/icons?i=apple,linux,windows&perline=7)](https://skillicons.dev) -->
-
-- macOS · Linux · Windows
-
-**Frameworks & Platforms**
-
-<!-- [![Frameworks and Platforms](https://skillicons.dev/icons?i=graphql,apollo,actix,spring,react,express,fastapi,tauri,yew,nodejs&perline=10)](https://skillicons.dev) -->
-
-- GraphQL · Apollo GraphQL · Actix Web · Spring Boot · React · ExpressJS · FastAPI · Tauri · Yew · Node.js
-
-**Cloud & DevOps**
-
-<!-- [![Cloud and DevOps](https://skillicons.dev/icons?i=aws,cloudflare,docker,gitlab,githubactions,jenkins&perline=8)](https://skillicons.dev) -->
-
-- AWS · Cloudflare · Docker · GitLab · GitHub Actions · Jenkins · Spinnaker
-
-**Databases, Messaging & Caching**
-
-<!-- [![Databases, Messaging and Caching](https://skillicons.dev/icons?i=postgres,sqlite,mongodb,mysql,redis,kafka&perline=8)](https://skillicons.dev) -->
-
-- PostgreSQL · SQLite · MongoDB · MySQL · Redis · Realm · Kafka
-
-**Observability**
-
-<!-- [![Observability](https://skillicons.dev/icons?i=grafana,elasticsearch&perline=8)](https://skillicons.dev) -->
-
-- Grafana · Elasticsearch · Datadog · Splunk
-
-**Dev Tools & Editors**
-
-<!-- [![Dev Tools and Editors](https://skillicons.dev/icons?i=git,npm,jest,idea,vscodium&perline=8)](https://skillicons.dev) -->
-
-- Git · npm · Jest · IntelliJ IDEA · VSCodium · FFmpeg
-
-</details>
-
----
-
-<details open>
 <summary><code>💡 Interests</code></summary>
 
 - Distributed systems • Peer-to-Peer • high performance programming
 - Languages (🇺🇸🇫🇷, learning 🇨🇳)  
 - Triathlon 🏊 🚴 🏃  
 - Reading: [novels, essays & tech](https://app.thestorygraph.com/profile/santeau)
+- ascii art
 
 </details>
+
+---
+
+<p align="center">
+  <img src="./assets/black_hole.webp" alt="Black hole ASCII animation" width="33%">
+</p>
