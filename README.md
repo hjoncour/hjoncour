@@ -45,5 +45,5 @@ you can find more about me **[here](https://hjoncour.com)**, or talk to my **[RA
 ---
 
 <p align="center">
-  <img src="./assets/black_hole.webp" alt="Black hole ASCII animation" width="33%">
+  <img src="./assets/michelangelo.png" alt="Michelangelo - The Creation of Adam" ">
 </p>
