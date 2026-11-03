@@ -20,13 +20,14 @@ you can find more about me **[here](https://hjoncour.com)**, or talk to my **[RA
 <details open>
 <summary><code>🚀 Projects</code></summary>
 
-- **[chat.hjoncour](https://chat.hjoncour.com/)** → rag using elasticsearch & jinaAI to answer questions on my portfolio, work, and side projects
+- **[pairlobby](https://pairlobby.com/)** → coordination layer for ai agents, try it!
+- **[ragportfolio](https://ragportfolio.com/)** → based on chat.hjoncour, rag as a service side projects
+- **[chat.hjoncour](https://chat.hjoncour.com/)** → hybrid search rag using elasticsearch to answer questions on my portfolio
 - **[githubIcons](https://githubicons.com/)** → browser extension to use nice icons on github.com
 - **[iTermPortal](https://itermportal.com/)** → macOS utility app to easily switch between the finder and the terminal
 - **[cascii](https://cascii.com)** → high performance rust libraries and tools to generate and display ascii art
 - **[ClipScraper](https://github.com/ClipScraper)** → [App to download content from social media platforms](https://clipscraper.com)  
 - **[Snapshot](https://github.com/hjoncour/snapshot)** → Small bash cli tool to copy/paste backup and restore repos.  
-<!-- - **[GitCruise](https://gitcruise.com/)** → Mobile-first IDE & GitHub client (wip). -->
 </details>
 
 ---
